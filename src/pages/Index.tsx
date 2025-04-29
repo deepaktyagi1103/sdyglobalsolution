@@ -42,12 +42,12 @@ const Index = () => {
   ];
 
   const clients = [
-    { id: 1, logo: "/c1.png", name: "Client 1" },
-    { id: 2, logo: "/c2.png", name: "Client 2" },
-    { id: 3, logo: "/c3.jpg", name: "Client 3" },
-    { id: 4, logo: "/c4.png", name: "Client 4" },
-    { id: 5, logo: "/c5.png", name: "Client 5" },
-    { id: 6, logo: "/c6.jpg", name: "Client 6" },
+    { id: 1, logo: "/public/clients/c1.png", name: "Client 1" },
+    { id: 2, logo: "/public/clients/c2.png", name: "Client 2" },
+    { id: 3, logo: "/public/clients/c3.jpg", name: "Client 3" },
+    { id: 4, logo: "/public/clients/c4.png", name: "Client 4" },
+    { id: 5, logo: "/public/clients/c5.png", name: "Client 5" },
+    { id: 6, logo: "/public/clients/c6.jpg", name: "Client 6" },
   ];
   
 
