@@ -45,7 +45,8 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-3 group">
             <div className="overflow-hidden rounded-md transition-transform duration-300 group-hover:scale-105">
-              <img src="/public/logo.png" alt="Logo" className="h-12 w-auto" />
+            <img src="/logo.png" alt="Logo" className="h-12 w-auto" />
+
             </div>
             <div className="flex flex-col">
               <span className="text-sm font-semibold text-gray-600 hidden md:inline-block transition-colors group-hover:text-primary">
