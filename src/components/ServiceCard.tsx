@@ -34,7 +34,7 @@ const ServiceCard: React.FC<ServiceCardProps> = ({
         </h3>
         <p className="text-gray-600 mb-4 line-clamp-2">{description}</p>
         <a
-          href={link}
+          href="/services"
           className="inline-flex items-center text-primary font-medium hover:text-primary-dark transition-colors group-hover:translate-x-2 duration-300"
         >
           Learn More
