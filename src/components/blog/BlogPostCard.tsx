@@ -33,7 +33,6 @@ const BlogPostCard = ({ post }) => {
   }, []);
 
   useEffect(() => {
-    // Close share menu when clicking outside
     const handleClickOutside = (event) => {
       if (shareRef.current && !shareRef.current.contains(event.target)) {
         setShowShareMenu(false);
@@ -61,13 +60,12 @@ const BlogPostCard = ({ post }) => {
   const sharePost = (platform, e) => {
     e.preventDefault();
     e.stopPropagation();
-    // Implement actual sharing functionality here
     console.log(`Sharing to ${platform}: ${post.title}`);
     setShowShareMenu(false);
   };
 
   const getRandomDelay = () => {
-    return Math.floor(Math.random() * 5) * 100; // 0, 100, 200, 300, or 400ms
+    return Math.floor(Math.random() * 5) * 100;
   };
 
   return (
@@ -142,17 +140,17 @@ const BlogPostCard = ({ post }) => {
             </div>
           </div>
         </div>
-        
-        <Link to={`/blog/${post.slug}`} className="block group">
+
+        {/* Title Link updated */}
+        <Link to="/services" className="block group">
           <h3 className="text-xl font-bold text-slate-800 dark:text-white mb-3 group-hover:text-primary transition-colors duration-300 line-clamp-2">
             {post.title}
           </h3>
-          
           <p className="text-slate-600 dark:text-slate-300 mb-4 line-clamp-3">
             {post.excerpt}
           </p>
         </Link>
-        
+
         <div className="flex items-center justify-between">
           <div className="flex items-center">
             <img
@@ -164,9 +162,10 @@ const BlogPostCard = ({ post }) => {
               {post.author}
             </span>
           </div>
-          
+
+          {/* Bottom "Read More" Link updated */}
           <Link
-            to={`/blog/${post.slug}`}
+            to="/services"
             className="text-primary font-semibold text-sm hover:underline flex items-center"
           >
             Read More
