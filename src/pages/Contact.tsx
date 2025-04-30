@@ -162,12 +162,12 @@ const Contact = () => {
                   {
                     icon: MapPin,
                     title: "Visit Us",
-                    content: "SD GLOBAL SOLUTION H-689,KHN-146,Ground Floor Burari,Delhi, Delhi 110084,India",
+                    content: "SD GLOBAL SOLUTION PVT. LTD H-689,KHN-146,Ground Floor Burari,Delhi, Delhi 110084,India",
                   },
                   {
                     icon: Phone,
                     title: "Call Us",
-                    content: "+91 92050813262",
+                    content: "+91 9205081326",
                   },
                   {
                     icon: Mail,
