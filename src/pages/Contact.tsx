@@ -177,7 +177,7 @@ const Contact = () => {
                   {
                     icon: Clock,
                     title: "Working Hours",
-                    content: "Mon - Fri: 9:00 AM - 6:00 PM",
+                    content: "Mon - Fri: 9:00 AM - 7:00 PM",
                   },
                 ].map((item, index) => (
                   <div key={index} className="flex items-start group">
