@@ -1,6 +1,15 @@
 {
-    "rewrites": [
-      { "source": "/(.*)", "destination": "/" }
-    ]
-  }
-  
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "sdglobalsolution.com"
+        }
+      ],
+      "destination": "https://sdyglobalsolution.com/:1",
+      "permanent": true
+    }
+  ]
+}
