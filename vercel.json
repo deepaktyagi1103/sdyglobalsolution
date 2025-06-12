@@ -8,7 +8,7 @@
           "value": "sdglobalsolution.com"
         }
       ],
-      "destination": "https://sdyglobalsolution.com/:1",
+      "destination": "https://sdyglobalsolution.com/$1",
       "permanent": true
     }
   ]
