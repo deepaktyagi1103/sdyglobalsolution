@@ -36,7 +36,7 @@ const PopularPosts = () => {
       id: 4,
       title: "EPR Compliance: What You Need to Know for 2025",
       category: "EPR",
-      image: "https://images.unsplash.com/photo-1532290285050-08aa443147ae?q=80&w=1374&auto=format&fit=crop",
+      image: "https://images.unsplash.com/photo-1544377193-33dcf4d68fb5?q=80&w=1374&auto=format&fit=crop",
       slug: "epr-compliance-2025",
       readTime: 7
     },

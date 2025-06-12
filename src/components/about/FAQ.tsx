@@ -14,7 +14,7 @@ const FAQ: React.FC<FAQProps> = ({ scrollReveal }) => {
       answer: "The typical timeline for BIS certification varies depending on the product category and the completeness of your documentation. Generally, it takes between 2-4 months from application to certification. Our team works to expedite this process by ensuring all documentation is properly prepared and by proactively addressing any queries from regulatory authorities."
     },
     {
-      question: "How does SD GLOBAL SOLUTION simplify the certification process?",
+      question: "How does SDY GLOBAL SOLUTION simplify the certification process?",
       answer: "We simplify the certification process by providing end-to-end support, from initial assessment to final certification. This includes documentation preparation, application submission, coordination with testing laboratories, follow-up with regulatory bodies, and post-certification compliance assistance. Our expert team navigates the complex regulatory requirements, allowing you to focus on your core business operations."
     },
     {

@@ -110,7 +110,7 @@ const Services = () => {
               Comprehensive Compliance Solutions
             </h2>
             <p className="text-lg text-gray-600">
-              At SD Global Solution, we offer a full spectrum of certification and compliance services 
+              At SDY Global Solution, we offer a full spectrum of certification and compliance services 
               designed to meet the diverse needs of businesses across industries.
             </p>
           </motion.div>

@@ -13,7 +13,7 @@ const faqItems = [
   },
   {
     question: "Can you help with international certifications?",
-    answer: "Yes, SD Global Solution specializes in both domestic and international certifications. We have experience with certifications required for exporting to various countries and can help you navigate the complex requirements of global markets."
+    answer: "Yes, SDY Global Solution specializes in both domestic and international certifications. We have experience with certifications required for exporting to various countries and can help you navigate the complex requirements of global markets."
   },
   {
     question: "Do you provide assistance after certification is obtained?",

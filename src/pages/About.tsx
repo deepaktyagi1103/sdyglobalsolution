@@ -32,7 +32,7 @@ const About = () => {
 
       {/* Hero Section */}
       <HeroSection
-        title="About SD GLOBAL SOLUTION"
+        title="About SDY GLOBAL SOLUTION"
         subtitle="Your trusted partner in regulatory compliance and certification services across India"
         imageUrl="https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=1974&auto=format&fit=crop"
         primaryButtonText="Contact Us"
@@ -84,7 +84,7 @@ const About = () => {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-4xl md:text-5xl font-bold text-white mb-6 scroll-reveal">
-              Partner with SD GLOBAL SOLUTION PVT. LTD for Your Certification Needs
+              Partner with SDY GLOBAL SOLUTION PVT. LTD for Your Certification Needs
             </h2>
             <p className="text-xl text-white/90 mb-8 scroll-reveal">
               Let our expert team guide you through the certification process with ease and confidence

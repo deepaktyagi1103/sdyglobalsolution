@@ -57,7 +57,7 @@ const Index = () => {
       id: 1,
       name: "Rajesh Kumar",
       position: "CEO, TechCraft Industries",
-      content: "SD Global Solution made our BIS certification process incredibly smooth. Their expertise and dedication are unmatched.",
+      content: "SDY Global Solution made our BIS certification process incredibly smooth. Their expertise and dedication are unmatched.",
       image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg",
       rating: 5
     },
@@ -213,10 +213,10 @@ const Index = () => {
               viewport={{ once: true }}
             >
               <h2 className="text-3xl md:text-4xl font-bold text-primary mb-6">
-                Welcome to SD Global Solution
+                Welcome to SDY Global Solution
               </h2>
               <p className="text-gray-600 mb-6">
-                Since our establishment, SD Global Solution has been at the forefront of certification and compliance services in India. We take pride in our commitment to excellence and our ability to deliver results that exceed expectations.
+                Since our establishment, SDY Global Solution has been at the forefront of certification and compliance services in India. We take pride in our commitment to excellence and our ability to deliver results that exceed expectations.
               </p>
               <p className="text-gray-600 mb-6">
                 Our team of experts brings decades of combined experience in navigating the complex landscape of regulatory requirements, ensuring your certification process is smooth and successful.
@@ -237,7 +237,7 @@ const Index = () => {
             >
               <img
                 src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg"
-                alt="About SD Global Solution"
+                alt="About SDY Global Solution"
                 className="rounded-lg shadow-lg"
               />
               <div className="absolute inset-0 bg-primary/10 rounded-lg"></div>

@@ -10,28 +10,28 @@ const Testimonials: React.FC<TestimonialsProps> = ({ scrollReveal }) => {
   
   const testimonials = [
     {
-      content: "SD GLOBAL SOLUTION's expertise in BIS certification was invaluable for our company. They handled the entire process efficiently, saving us time and resources. Their team's knowledge and attention to detail ensured a smooth certification journey.",
+      content: "SDY GLOBAL SOLUTION's expertise in BIS certification was invaluable for our company. They handled the entire process efficiently, saving us time and resources. Their team's knowledge and attention to detail ensured a smooth certification journey.",
       author: "Ravi Mehta",
       position: "CEO, TechInnovate Solutions",
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=987&auto=format&fit=crop",
       company: "Electronics Manufacturing"
     },
     {
-      content: "We were struggling with the complex requirements of CDSCO registration until we partnered with SD GLOBAL SOLUTION. Their expert guidance and support throughout the process made compliance straightforward and hassle-free.",
+      content: "We were struggling with the complex requirements of CDSCO registration until we partnered with SDY GLOBAL SOLUTION. Their expert guidance and support throughout the process made compliance straightforward and hassle-free.",
       author: "Ananya Sharma",
       position: "Operations Director, MediCare Devices",
       image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=987&auto=format&fit=crop",
       company: "Medical Devices"
     },
     {
-      content: "The team at SD GLOBAL SOLUTION went above and beyond to help us obtain FSSAI registration for our products. Their thorough understanding of regulations and proactive approach significantly expedited the approval process.",
+      content: "The team at SDY GLOBAL SOLUTION went above and beyond to help us obtain FSSAI registration for our products. Their thorough understanding of regulations and proactive approach significantly expedited the approval process.",
       author: "Vivek Patel",
       position: "Founder, NatureFoods India",
       image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=987&auto=format&fit=crop",
       company: "Food Processing"
     },
     {
-      content: "As a first-time importer, navigating India's regulatory landscape was daunting until we found SD GLOBAL SOLUTION. Their comprehensive support and personalized guidance helped us achieve compliance with all necessary certifications.",
+      content: "As a first-time importer, navigating India's regulatory landscape was daunting until we found SDY GLOBAL SOLUTION. Their comprehensive support and personalized guidance helped us achieve compliance with all necessary certifications.",
       author: "Sarah Johnson",
       position: "International Business Head, EcoProducts",
       image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=988&auto=format&fit=crop",

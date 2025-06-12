@@ -106,7 +106,7 @@ const Certification = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.7, duration: 0.5 }}
             >
-              SD Global Solution provides comprehensive certification and registration solutions to ensure your business complies with all government and industry regulations with ease and professionalism.
+              SDY Global Solution provides comprehensive certification and registration solutions to ensure your business complies with all government and industry regulations with ease and professionalism.
             </motion.p>
             <motion.a
               href="#services"
@@ -212,7 +212,7 @@ const Certification = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: 0.4 }}
             >
-              At SD Global Solution, we offer a wide range of certifications and registrations to help your business thrive in compliance with all regulatory requirements.
+              At SDY Global Solution, we offer a wide range of certifications and registrations to help your business thrive in compliance with all regulatory requirements.
             </motion.p>
           </div>
 
@@ -286,7 +286,7 @@ const Certification = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: 0.2 }}
             >
-              Why Choose SD Global Solution?
+              Why Choose SDY Global Solution?
             </motion.h2>
             <motion.p 
               className="text-gray-600 max-w-2xl mx-auto"

@@ -33,7 +33,7 @@ const MissionVision: React.FC<MissionVisionProps> = ({ scrollReveal }) => {
             Our Mission
           </h2>
           <p className="text-lg text-gray-700 leading-relaxed max-w-4xl mx-auto">
-            At SD GLOBAL SOLUTION, our mission is to simplify the complex world of regulatory compliance and certification for businesses across India. We strive to provide expert guidance, efficient processes, and reliable support to help our clients navigate regulatory requirements with confidence.
+            At SDY GLOBAL SOLUTION, our mission is to simplify the complex world of regulatory compliance and certification for businesses across India. We strive to provide expert guidance, efficient processes, and reliable support to help our clients navigate regulatory requirements with confidence.
           </p>
         </div>
         

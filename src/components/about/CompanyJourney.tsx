@@ -46,7 +46,7 @@ const CompanyJourney: React.FC<CompanyJourneyProps> = ({ scrollReveal }) => {
               {
                 year: "2025",
                 title: "Foundation",
-                description: "SD GLOBAL SOLUTION was founded by a team of regulatory experts with a vision to transform how businesses approach certification in India.",
+                description: "SDY GLOBAL SOLUTION was founded by a team of regulatory experts with a vision to transform how businesses approach certification in India.",
                 image: "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1170&auto=format&fit=crop",
               },
               {
@@ -76,7 +76,7 @@ const CompanyJourney: React.FC<CompanyJourneyProps> = ({ scrollReveal }) => {
               {
                 year: "Today",
                 title: "Industry Leadership",
-                description: "Today, SD GLOBAL SOLUTION stands as a trusted partner to thousands of businesses across India, helping them navigate regulatory requirements with confidence.",
+                description: "Today, SDY GLOBAL SOLUTION stands as a trusted partner to thousands of businesses across India, helping them navigate regulatory requirements with confidence.",
                 image: "https://images.unsplash.com/photo-1579389083078-4e7018379f7e?q=80&w=1170&auto=format&fit=crop",
               },
             ].map((event, index) => (

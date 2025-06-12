@@ -34,7 +34,7 @@ const TeamMembers: React.FC<TeamMembersProps> = ({ scrollReveal }) => {
       specialization: "BIS and CDSCO regulations",
       linkedin: "#",
       twitter: "#",
-      email: "rajesh@sdglobalsolution.com"
+      email: "rajesh@sdyglobalsolution.com"
     },
     {
       name: "Priya Sharma",
@@ -44,7 +44,7 @@ const TeamMembers: React.FC<TeamMembersProps> = ({ scrollReveal }) => {
       specialization: "Process optimization and client relations",
       linkedin: "#",
       twitter: "#",
-      email: "priya@sdglobalsolution.com"
+      email: "priya@sdyglobalsolution.com"
     },
     {
       name: "Amit Patel",
@@ -64,7 +64,7 @@ const TeamMembers: React.FC<TeamMembersProps> = ({ scrollReveal }) => {
       specialization: "Client support and relationship building",
       linkedin: "#",
       twitter: "#",
-      email: "sunita@sdglobalsolution.com"
+      email: "sunita@sdyglobalsolution.com"
     },
     {
       name: "Vikram Singh",
@@ -74,7 +74,7 @@ const TeamMembers: React.FC<TeamMembersProps> = ({ scrollReveal }) => {
       specialization: "International standards and compliance",
       linkedin: "#",
       twitter: "#",
-      email: "vikram@sdglobalsolution.com"
+      email: "vikram@sdyglobalsolution.com"
     },
     {
       name: "Neha Gupta",
@@ -84,7 +84,7 @@ const TeamMembers: React.FC<TeamMembersProps> = ({ scrollReveal }) => {
       specialization: "Technical documentation and application processing",
       linkedin: "#",
       twitter: "#",
-      email: "neha@sdglobalsolution.com"
+      email: "neha@sdyglobalsolution.com"
     }
   ];
   

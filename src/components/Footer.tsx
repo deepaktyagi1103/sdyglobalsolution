@@ -10,14 +10,22 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 md:gap-8">
           {/* Company Info */}
           <div className="col-span-1 space-y-6">
-            <div className="space-y-4">
-              <h3 className="text-2xl font-bold bg-gradient-to-r from-white to-white/80 bg-clip-text text-transparent">
-                SD GLOBAL SOLUTION PVT. LTD
-              </h3>
-              <p className="text-gray-300 leading-relaxed">
-                Your trusted partner for all BIS certification, registration, and compliance services across India.
-              </p>
-            </div>
+            <div className="space-y-4 text-center">
+  <img 
+    src="/logo.png" 
+    alt="SDY Global Solution Logo" 
+    className="mx-auto h-14 w-auto object-contain" 
+  />
+
+  <h3 className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-white to-white/80 bg-clip-text text-transparent">
+    SDY GLOBAL SOLUTION PVT. LTD
+  </h3>
+
+  <p className="text-gray-300 text-sm md:text-base leading-relaxed max-w-xl mx-auto">
+    Your trusted partner for all BIS certification, registration, and compliance services across India.
+  </p>
+</div>
+
             <div className="flex space-x-4">
               <a href="#" className="transform hover:scale-110 transition-transform duration-200">
                 <Facebook className="h-6 w-6 text-gray-300 hover:text-white transition-colors" />
@@ -97,7 +105,7 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-start space-x-3 group">
                 <MapPin className="h-5 w-5 mt-1 flex-shrink-0 text-accent group-hover:text-white transition-colors" />
-                <span className="text-gray-300 group-hover:text-white transition-colors">SD GLOBAL SOLUTION PVT.LTD
+                <span className="text-gray-300 group-hover:text-white transition-colors">SDY GLOBAL SOLUTION PVT.LTD
                   <br />H-689,KHN-146,Ground Floor Burari,
                     Delhi, Delhi 110084,
                     India
@@ -106,7 +114,7 @@ const Footer = () => {
               <li className="flex items-center space-x-3 group">
                 <Mail className="h-5 w-5 flex-shrink-0 text-accent group-hover:text-white transition-colors" />
                 <a href="mailto:info@sdglobalsolution.com" className="text-gray-300 group-hover:text-white transition-colors">
-                info@sdglobalsolution.com
+                info@sdyglobalsolution.com
                 </a>
               </li>
               <li className="flex items-center space-x-3 group">
@@ -141,7 +149,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="mt-16 pt-8 border-t border-gray-700/50">
           <p className="text-center text-gray-400">
-            &copy; {new Date().getFullYear()} SD GLOBAL SOLUTION. All rights reserved.
+            &copy; {new Date().getFullYear()} SDY GLOBAL SOLUTION. All rights reserved.
           </p>
         </div>
       </div>

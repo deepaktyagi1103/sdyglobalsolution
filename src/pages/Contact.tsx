@@ -162,7 +162,7 @@ const Contact = () => {
                   {
                     icon: MapPin,
                     title: "Visit Us",
-                    content: "SD GLOBAL SOLUTION PVT. LTD H-689,KHN-146,Ground Floor Burari,Delhi, Delhi 110084,India",
+                    content: "SDY GLOBAL SOLUTION PVT. LTD H-689,KHN-146,Ground Floor Burari,Delhi, Delhi 110084,India",
                   },
                   {
                     icon: Phone,
@@ -172,7 +172,7 @@ const Contact = () => {
                   {
                     icon: Mail,
                     title: "Email Us",
-                    content: "info@sdglobalsolution.com",
+                    content: "info@sdyglobalsolution.com",
                   },
                   {
                     icon: Clock,
