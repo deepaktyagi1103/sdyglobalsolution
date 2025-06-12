@@ -1,15 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "sdglobalsolution.com"
-        }
-      ],
-      "destination": "https://sdyglobalsolution.com/$1",
-      "permanent": true
-    }
-  ]
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
 }
